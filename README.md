@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-	      <h2>✨🫧Stack🫧✨</h2>
+	      <h4>✨🫧Stack🫧✨</h4>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align = "center">
 	<a href = "https://livealittle.tistory.com/">tistory</a>
