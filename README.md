@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5y0ung4)](https://github.com/5y0ung4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5y0ung4)](https://github.com/5y0ung4/github-readme-stats)
+
 <br><br><br><br><br><br>
+
 
 <div align = "center">
 	<a href = "https://livealittle.tistory.com/">tistory</a>
