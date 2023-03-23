@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
 </div>
 
+<a href = "https://livealittle.tistory.com/">my tistory</a>
+
