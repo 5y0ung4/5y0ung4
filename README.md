@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2E4FF,100:959BDC&height=200&section=header&text=Young's%20Github&fontSize=30&" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2E4FF,100:959BDC&height=120&section=header&text=💻Young's%20Github🖥️&fontSize=30&" />
 	<h4>✨🫧Stack🫧✨</h4>
 </div>
 <div align="center">
@@ -30,12 +30,22 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5y0ung4&layout=compact)](https://github.com/5y0ung4/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5y0ung4)](https://github.com/5y0ung4/github-readme-stats)
-
-<br><br><br><br><br><br>
-
 
 <div align = "center">
-	<a href = "https://livealittle.tistory.com/">tistory</a>
+	<hr width = 800px color = blue>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5y0ung4&layout=compact)](https://github.com/5y0ung4/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5y0ung4)](https://github.com/5y0ung4/github-readme-stats)
+
+</div>
+
+<br><br><br>
+
+
+<div align = "right">
+	<div style = "display:inline;">
+		<!--<p>What I learn</p>-->
+		<a href = "https://livealittle.tistory.com/">Tistory📝</a>
+	</div>
 </div>
