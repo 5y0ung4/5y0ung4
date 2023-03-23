@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=5y0ung4%20Github&fontSize=50" />
 	<h4>✨🫧Stack🫧✨</h4>
 </div>
 <div align="center">
