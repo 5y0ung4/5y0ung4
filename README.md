@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-	<img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhx1hyhowhwhcdoc%2Fstatus%2F995219034978246656%3Flang%3Dzh-Hant&psig=AOvVaw3jjv9qw5UjrVrJkJT5JDSy&ust=1679619570470000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjS4dDs8P0CFQAAAAAdAAAAABA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.co.kr%2Fpin%2F811070214144975724%2F&psig=AOvVaw3jjv9qw5UjrVrJkJT5JDSy&ust=1679619570470000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjS4dDs8P0CFQAAAAAdAAAAABAQ)J">
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 	<h4>✨🫧Stack🫧✨</h4>
 </div>
 <div align="center">
