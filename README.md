@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
 </div>
 
+<br><br><br><br><br><br><br><br><br>
+
 <div align = "center">
 	<a href = "https://livealittle.tistory.com/">tistory</a>
 </div>
