@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <div align = "right">
 	<div style = "display:inline;">
-		<!--<p>What I learn</p>-->
 <!-- 		<a href = "https://livealittle.tistory.com/">Tistory📝</a> -->
 	</div>
 </div>
