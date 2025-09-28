@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 <div align = "center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2E4FF,100:959BDC&height=120&section=header&text=Young's%20Github&fontSize=30&" />
+	
 </div>
 <!-- <div align="center">
+
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> 
@@ -35,9 +37,26 @@ Here are some ideas to get you started:
 	  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-<hr width=600>
+<!-- <hr width=600> -->
+	<br>
 </div>
+<!-- <div align="left">
+<h2>
+   I’m currently learning . . .
+</h2>
+
+<p>
+    <b>backend development</b> using Spring Boot and Django<br>
+    <b>artificial neural networks</b> and deep learning concepts
+  
+</p>
+<br><br>
+<h2>
+	I have a goal . . .
+</h2>
+
+<p><b>integrating AI models</b> into backend applications</p>
 
 
-
-
+<a href="https://velog.io/@5y0ung4"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</div> -->
