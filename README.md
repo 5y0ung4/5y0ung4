@@ -13,24 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align = "left">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2E4FF,100:959BDC&height=120&section=header&text=💻Young's%20Github🖥️&fontSize=30&" />
-<!-- 	<h4>✨🫧Stack🫧✨</h4> -->
+<div align = "center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2E4FF,100:959BDC&height=120&section=header&text=Young's%20Github&fontSize=30&" />
 </div>
-<div align="center">
+<!-- <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
+</div> -->
+<div align ="center" >
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<br>
+	  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+	<br>
+	  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+<hr width=600>
 </div>
 
 
 
 
-
-<div align = "right">
-	<div style = "display:inline;">
-<!-- 		<a href = "https://livealittle.tistory.com/">Tistory📝</a> -->
-	</div>
-</div>
