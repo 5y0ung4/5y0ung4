@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 	<br>
 	  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+	<img src="https://img.shields.io/badge/unity-EEEEEE?style=for-the-badge&logo=unity&logoColor=black">
 <!-- <hr width=600> -->
 	<br>
 </div>
